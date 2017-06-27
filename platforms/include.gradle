@@ -1,0 +1,10 @@
+android {
+    productFlavors {
+        "nativescriptnavigationtabbar" {
+            dimension "nativescriptnavigationtabbar"
+        }
+    }
+}
+dependencies {
+  compile 'devlight.io:navigationtabbar:1.2.5'
+}

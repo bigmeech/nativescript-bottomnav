@@ -1,0 +1,30 @@
+{
+  "name": "nativescript-bottomnav",
+  "version": "0.1.2",
+  "main":"index.android.js",
+  "description": "Port of DevLight's NavigationTabBar for android",
+  "nativescript":{
+    "platforms": {
+      "android": "3.0.1"
+    }
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigmeech/ns-navigation-tabbar.git"
+  },
+  "keywords": [
+    "android",
+    "nativescript",
+    "tabs",
+    "nagivation"
+  ],
+  "author": "Larry Eliemenye <larry.eliemenye@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigmeech/ns-navigation-tabbar/issues"
+  },
+  "homepage": "https://github.com/bigmeech/ns-navigation-tabbar#readme"
+}
